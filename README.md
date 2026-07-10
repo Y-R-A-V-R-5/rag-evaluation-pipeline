@@ -401,18 +401,12 @@ rag-evaluation-pipeline/
 │
 ├── data/
 │
-├── notebooks/
-│
-├── src/
-│
 ├── outputs/
 │   └── figures/
 │       ├── retrieval_comparison.png
 │       ├── knowledge_graph.png
 │       ├── learning_curve.png
 │       └── ...
-│
-├── requirements.txt
 │
 └── README.md
 ```
