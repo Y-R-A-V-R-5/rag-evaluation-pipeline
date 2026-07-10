@@ -1,0 +1,9 @@
+Metric,Value
+Best retrieval strategy,Sparse (BM25)
+Best NDCG@K,0.397
+Improvement over dense-only,+14.3%
+Mean faithfulness (RAGAS-style),0.874
+Mean answer relevance,0.413
+Mean context relevance,0.398
+Mean hallucination proxy rate,0.000
+Answers flagged low-confidence,0.0%
